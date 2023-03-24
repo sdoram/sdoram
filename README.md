@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-[TIL블로그 링크](https://sdoram.tistory.com/)
+[TIL블로그](https://sdoram.tistory.com/)
 ---
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 저는 현재 파이썬을 공부하고 있습니다.
